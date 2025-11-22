@@ -1,0 +1,2 @@
+### Observations
+Ni is correctly predicted to prefer the FCC phase, with a DFT-calculated lattice constant of 3.44 Å that is close to the experimental value of 3.52 Å. The system is metallic with no band gap, consistent with known physical behavior.
