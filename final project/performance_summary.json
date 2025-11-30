@@ -1,0 +1,25 @@
+{
+    "composition_model": {
+        "model": "RandomForest",
+        "n_estimators": 100,
+        "features": 30,
+        "train_mae": 0.071,
+        "val_mae": 0.18,
+        "test_mae": 0.164,
+        "train_r2": 0.98,
+        "val_r2": 0.899,
+        "test_r2": 0.916
+    },
+    "structure_model": {
+        "model": "RandomForest",
+        "n_estimators": 100,
+        "features": 90,
+        "train_mae": 0.605,
+        "val_mae": 0.696,
+        "test_mae": 0.692,
+        "train_r2": 0.269,
+        "val_r2": 0.13,
+        "test_r2": 0.011
+    },
+    "baseline_mae": 0.762
+}
