@@ -2,24 +2,24 @@
     "composition_model": {
         "model": "RandomForest",
         "n_estimators": 100,
-        "features": 20,
+        "features": 30,
         "train_mae": 0.034,
-        "val_mae": 0.097,
-        "test_mae": 0.088,
-        "train_r2": 0.966,
-        "val_r2": 0.706,
-        "test_r2": 0.772
+        "val_mae": 0.094,
+        "test_mae": 0.077,
+        "train_r2": 0.964,
+        "val_r2": 0.766,
+        "test_r2": 0.817
     },
     "structure_model": {
         "model": "RandomForest",
         "n_estimators": 100,
-        "features": 128,
-        "train_mae": 0.132,
-        "val_mae": 0.134,
-        "test_mae": 0.147,
-        "train_r2": 0.558,
-        "val_r2": 0.544,
-        "test_r2": 0.526
+        "features": 126,
+        "train_mae": 0.134,
+        "val_mae": 0.121,
+        "test_mae": 0.149,
+        "train_r2": 0.554,
+        "val_r2": 0.596,
+        "test_r2": 0.498
     },
     "baseline_mae": 0.2515
 }
