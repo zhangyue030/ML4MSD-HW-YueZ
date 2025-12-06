@@ -27,7 +27,7 @@
         "n_validation_min": 1,
         "n_test_min": 4,
         "write_base_str": "mf",
-        "output_dir": "c:\\Users\\51648\\Documents\\GitHub\\ML4MSD-HW-YueZ",
+        "output_dir": "c:\\Users\\51648\\Documents\\GitHub\\ML4MSD-HW-YueZ\\Group project",
         "verbose": false
     }
 }
