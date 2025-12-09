@@ -11,7 +11,7 @@
     "split_function_called": "create_train_validation_test_splits",
     "split_parameters": {
         "split_type_validation": "index",
-        "split_type_test": "sgnum",
+        "split_type_test": "periodictablegroups",
         "train_fraction": 0.7,
         "validation_fraction": 0.2,
         "test_fraction": 0.1,
@@ -21,7 +21,7 @@
         "default_validation": [],
         "default_test": [],
         "n_validation_min": 1,
-        "n_test_min": 10,
+        "n_test_min": 4,
         "write_base_str": "mf",
         "output_dir": "c:\\Users\\51648\\Documents\\GitHub\\ML4MSD-HW-YueZ\\Group project",
         "verbose": false

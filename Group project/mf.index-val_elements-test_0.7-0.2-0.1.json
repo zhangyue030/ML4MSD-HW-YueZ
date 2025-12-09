@@ -1,15 +1,11 @@
 {
     "MatFold": "v1.3.3",
-    "data_checksums": [
-        44661321573249463545617765948094817079,
-        298913020067172963082196180756451322459
-    ],
     "__init__": {
         "return_frac": 1.0,
         "always_include_n_elements": null,
         "cols_to_keep": null,
         "keep_splitlabel_cols": false,
-        "write_data_checksums": true,
+        "write_data_checksums": false,
         "seed": 0
     },
     "split_function_called": "create_train_validation_test_splits",
